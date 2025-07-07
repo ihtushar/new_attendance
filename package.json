@@ -1,0 +1,13 @@
+{
+  "name": "new_attendance",
+  "version": "1.0.0",
+  "description": "This is my attendance system project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"console.log(\\\"No tests yet\\\")\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
