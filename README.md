@@ -1,4 +1,5 @@
 # new_attendance
+This is my attendance system project.
 
 A prototype attendance tracking system using **Node.js**, **Express**, and **MongoDB**.
 The project demonstrates a simple backend API for registering users, logging in,
