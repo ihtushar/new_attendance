@@ -29,3 +29,10 @@ integration is included.
 API endpoints are exposed under `/api`. Adjust the MongoDB connection string via
 `MONGO_URI` environment variable. Google Sheets integration requires
 `GOOGLE_KEY` (path to your service account JSON) and `SHEET_ID`.
+
+## Frontend
+
+A minimal React UI lives in `client/`. It uses CDN builds of React and
+TailwindCSS so no build step is required. Open `client/index.html` in your
+browser to try it out. The UI allows users to register, log in, mark attendance
+and, if logged in as an admin, manage user star ratings.
